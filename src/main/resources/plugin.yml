@@ -1,0 +1,10 @@
+name: ILFriends
+version: ${project.version}
+main: me.scholtes.ilfriends.ILFriends
+api-version: 1.16
+authors: [ Scholtes ]
+description: Friends Plugin
+
+commands:
+  friend:
+    description: Main friend command
